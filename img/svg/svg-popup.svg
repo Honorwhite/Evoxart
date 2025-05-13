@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #d2dc50;
+        opacity: 0.9;
+      }
+
+      .st1 {
+        fill: #d2dc50;
+        opacity: 0.8;
+      }
+
+      .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #d2dc50;
+        opacity: 0.7;
+      }
+    </style>
+  </defs>
+  	<g filter="url(#blur)"> <circle class="st2" cx="1373.8" cy="1188.6" r="305.8"/>
+  <circle class="st2" cx="966.1" cy="1091.5" r="305.8"/>
+  <circle class="st2" cx="546.2" cy="1227.4" r="305.8"/>
+  <circle class="st1" cx="983.1" cy="1148.6" r="208.7"/>
+  <circle class="st0" cx="1208.8" cy="1148.6" r="148"/> </g>
+  <defs>
+		<filter id="blur" x="0" y="0" width="3000" height="1350" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="140" result="effect1_foregroundBlur"/>
+		</filter>
+	</defs>
+</svg>
